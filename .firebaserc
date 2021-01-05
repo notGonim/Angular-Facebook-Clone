@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "acu-egy": {
+      "hosting": {
+        "facebookclone": [
+          "acu-egy"
+        ]
+      }
+    }
+  }
+}
